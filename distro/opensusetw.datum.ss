@@ -1,0 +1,5 @@
+(("machine" . "ta6le")
+ ("scheme" . "9.5.8")
+ ("format" . "rpm")
+ ("depends" . "chezscheme")
+ ("shebang" . "#! /usr/bin/scheme --script"))

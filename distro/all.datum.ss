@@ -1,0 +1,8 @@
+(("package" . "orgtmpls4pdf")
+ ("version" . "1.2.2")
+ ("section" . "misc")
+ ("priority" . "optional")
+ ("maintainer" . "Xu Xin <sxuxin@protonmail.com>")
+ ("description" . "Org templates for exporting to pdf")
+ ("prefix" . "/usr")
+ ("shebang" . "#! /usr/bin/chez --script"))
