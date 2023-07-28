@@ -16,5 +16,5 @@
      "\n"
      "* 9" "\n"
      "\n"
-     (cdr (f-t "  9 or 9 file is simply a text file in which user write things,\n  And then user get it by invoking '-x 9'.\n  The location of 9 file is defined in the config file.")) "\n"
+     (cdr (f-t "  9 or 9 file is simply a text file in which user writes things,\n  and then gets it by invoking '-x 9'.\n  The location of 9 file is defined in the config file.")) "\n"
      )))
