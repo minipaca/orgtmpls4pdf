@@ -1,2 +1,16 @@
-* orgtmpls4pdf
-Org templates for exporting to pdf
+* Description
+
+Org templates for exporting to PDF.
+
+* Installation
+
+This software needs /Minipaca/ to compile and pack. Get to install /Minipaca/ from here: https://minipaca.github.io . And Then:
+
+#+BEGIN_SRC sh
+git clone https://github.com/minipaca/orgtmpls4pdf
+cd orgtmpls4pdf
+minipaca -g
+minipaca -p
+#+END_SRC
+
+Then you can find packages in directory 'p'.
