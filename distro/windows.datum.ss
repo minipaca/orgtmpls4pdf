@@ -4,5 +4,5 @@
  ("depends" . "")
  ("prefix" . "/InstallFiles")
  ("shebang" . "#! scheme --script")
- ("makensis" . "\"C:\\Program Files (X86)\\NSIS\\makensis.exe\"")
- )
+ ("makensis" . "\"C:\\Program Files (X86)\\NSIS\\makensis.exe\""))
+

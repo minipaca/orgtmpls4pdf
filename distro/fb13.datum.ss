@@ -3,5 +3,5 @@
  ("format" . "pkg")
  ("depends" . "{ }")
  ("prefix" . "/usr/local")
- ("shebang" . "#! /usr/local/bin/chez-scheme --script")
- )
+ ("shebang" . "#! /usr/local/bin/chez-scheme --script"))
+

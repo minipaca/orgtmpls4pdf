@@ -6,3 +6,4 @@
  ("description" . "Org templates for exporting to pdf")
  ("prefix" . "/usr")
  ("shebang" . "#! /usr/bin/chez --script"))
+

@@ -3,5 +3,5 @@
  ("format" . "pkg.tar.zst")
  ("depends" . "('chez-scheme')")
  ("prefix" . "/usr")
- ("shebang" . "#! /usr/bin/chez --script")
- )
+ ("shebang" . "#! /usr/bin/chez --script"))
+

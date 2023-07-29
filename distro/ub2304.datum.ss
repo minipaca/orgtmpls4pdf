@@ -4,3 +4,4 @@
  ("depends" . "chezscheme, fakeroot")
  ("prefix" . "/usr")
  ("shebang" . "#! /usr/bin/chezscheme --script"))
+

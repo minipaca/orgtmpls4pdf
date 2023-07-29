@@ -3,3 +3,4 @@
  ("format" . "rpm")
  ("depends" . "chezscheme")
  ("shebang" . "#! /usr/bin/scheme --script"))
+
