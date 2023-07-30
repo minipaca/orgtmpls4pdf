@@ -6,7 +6,7 @@
      "\n"
      "  " (cdr (f-t "Config:")) " " (cdr (f-e "app-config-path")) "\n"
      "\n"
-     "* Description" "\n"
+     (cdr (f-t "* Description")) "\n"
      "\n"
      (cdr (f-t "  This software provides Org templates for exporting to PDF.\n  For converting the Org file into PDF file,\n  you need LaTex and Emacs installed on your computer.")) "\n"
      "\n"
