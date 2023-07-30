@@ -5,5 +5,6 @@
  ("maintainer" . "Xu Xin <sxuxin@protonmail.com>")
  ("description" . "Org templates for exporting to pdf")
  ("prefix" . "/usr")
- ("shebang" . "#! /usr/bin/chez --script"))
+ ("shebang" . "#! /usr/bin/chez --script")
+ ("languages" . "zh_CN"))
 
