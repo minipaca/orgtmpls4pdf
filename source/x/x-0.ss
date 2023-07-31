@@ -4,7 +4,8 @@
   (lambda parameters
     (string-append
      "\n"
-     "  " (cdr (f-t "Config:")) " " (cdr (f-e "app-config-path")) "\n"
+     "  " (cdr (f-t "Config:")) " "
+     (i-path-shorten (cdr (f-e "app-config-path"))) "\n"
      "\n"
      (cdr (f-t "* Description")) "\n"
      "\n"
