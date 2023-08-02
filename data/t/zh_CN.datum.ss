@@ -10,7 +10,7 @@
  ("show the minimal template" . "显示最小化的模板")
  ("show the minimal CJK template" . "显示最小化的CJK模板")
  ("show user-defined content" . "显示用户定义的内容")
- ("Config:" . "配置:")
+ ("* Config" . "* 配置")
  ("* Description" . "* 描述")
  ("  This software provides Org templates for exporting to PDF.\\n  For converting the Org file into PDF file,\\n  you need LaTex and Emacs installed on your computer." . "  这个软件提供了用于导出PDF的Org模板。\\n  为了从Org文件导出成PDF文件，\\n  你需要在你的电脑上安装LaTex和Emacs。")
  ("* Emacs and LaTex installation" . "* Emacs和LaTex安装")
