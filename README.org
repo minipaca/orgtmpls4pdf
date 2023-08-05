@@ -1,6 +1,6 @@
 * Description
 
-Org templates for exporting to PDF.
+Org templates for exporting to PDF
 
 * Installation
 
