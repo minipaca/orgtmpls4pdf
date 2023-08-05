@@ -9,4 +9,5 @@
 20230729 Distro files code formatting
 20230801 x-0: Shorten config file path
 20230802 x-0: Config line as a section too
+20230806 x-9: Close port after using it
 202308dd Publish version 1.2.4

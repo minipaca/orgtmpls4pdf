@@ -18,4 +18,5 @@
 	    (exit))
 	  (let* ((port (open-input-file 9file))
 		 (str (get-string-all port)))
+	    (close-port port)
 	    (if (equal? str #!eof) " " str))))))
