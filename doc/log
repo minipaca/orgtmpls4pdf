@@ -11,8 +11,5 @@
 20230802 x-0: Config line as a section too
 20230806 x-9: Close port after using it
 20230809 Rename distro windows to win10 and win11
-
-
-
-
-202308dd Publish version 1.2.4
+20231016 arch endeavour fb13 void win10 win11: update to cs962
+20231016 Publish version 1.3.0

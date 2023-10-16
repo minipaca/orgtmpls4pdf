@@ -1,5 +1,5 @@
 (("machine" . "ta6fb")
- ("scheme" . "9.5.8")
+ ("scheme" . "9.6.2")
  ("format" . "pkg")
  ("depends" . "{ }")
  ("prefix" . "/usr/local")
