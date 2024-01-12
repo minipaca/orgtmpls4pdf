@@ -1,5 +1,5 @@
 (("machine" . "ta6nt")
- ("scheme" . "9.6.2")
+ ("scheme" . "9.6.4")
  ("format" . "exe")
  ("depends" . "")
  ("prefix" . "/InstallFiles")

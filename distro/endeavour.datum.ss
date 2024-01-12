@@ -1,5 +1,5 @@
 (("machine" . "ta6le")
- ("scheme" . "9.6.2")
+ ("scheme" . "9.6.4")
  ("format" . "pkg.tar.zst")
  ("depends" . "('chez-scheme')")
  ("prefix" . "/usr")
