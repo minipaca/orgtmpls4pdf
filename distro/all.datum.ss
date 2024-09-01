@@ -1,5 +1,5 @@
 (("package" . "orgtmpls4pdf")
- ("version" . "1.3.2")
+ ("version" . "1.4.0")
  ("section" . "misc")
  ("priority" . "optional")
  ("maintainer" . "Xu Xin <sxuxin@protonmail.com>")
