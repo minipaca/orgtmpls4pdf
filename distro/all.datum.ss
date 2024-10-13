@@ -1,5 +1,5 @@
 (("package" . "orgtmpls4pdf")
- ("version" . "1.4.0")
+ ("version" . "1.5.0")
  ("section" . "misc")
  ("priority" . "optional")
  ("maintainer" . "Xu Xin <sxuxin@protonmail.com>")
@@ -7,4 +7,3 @@
  ("prefix" . "/usr")
  ("shebang" . "#! /usr/bin/chez --script")
  ("languages" . "zh_CN"))
-
