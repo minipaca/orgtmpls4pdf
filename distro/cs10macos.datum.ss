@@ -1,0 +1,6 @@
+(("machine" . "ta6osx")
+ ("scheme" . "10.0.0")
+ ("format" . "osxpkg")
+ ("depends" . "{ }")
+ ("prefix" . "/usr/local")
+ ("shebang" . "#! /usr/local/lib/chez-scheme-10.0.0/ta6osx/chez --script"))
