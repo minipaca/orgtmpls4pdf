@@ -25,3 +25,5 @@
 20241111 Publish version 1.5.1
 20241205 Update distros from minipaca 2.4.0
 20241205 Publish version 1.6.0
+20250104 Use new chez-scheme path
+20250104 Publish version 1.7.0

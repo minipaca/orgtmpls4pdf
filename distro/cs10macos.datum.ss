@@ -3,4 +3,4 @@
  ("format" . "osxpkg")
  ("depends" . "{ }")
  ("prefix" . "/usr/local")
- ("shebang" . "#! /usr/local/lib/chez-scheme-10.0.0/ta6osx/chez --script"))
+ ("shebang" . "#! /usr/local/lib/chez-scheme-10.0.0/chez-scheme --script"))
